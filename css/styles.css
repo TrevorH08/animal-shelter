@@ -2,16 +2,17 @@ h1 {
   font-size: xxx-large;
   text-align: center;
   border: solid goldenrod;
-  background-color: white;
   padding: 20px;
   border-width: 20px;
   margin-bottom: auto;
   box-sizing: border-box;
+  background-color: aquamarine;
 }
 
 body {
   color: navy;
   font-family: "Brush Script MT", cursive;
+  background-color: antiquewhite;
 }
 
 h2 {
